@@ -9,6 +9,9 @@ p {
 #letter {
   display: none;
   background-color: tan;
+  height: 500px;
+  padding: 50px;
+  width: 500px;
 }
 
 form {
